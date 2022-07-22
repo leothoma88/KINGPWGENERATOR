@@ -10,14 +10,10 @@ The password generator does the following:
 
 ---
 
-## 💡 Hints
+## Live Link
 
-What method can we use to listen for an mouse click? 
+Github Page:
+https://github.com/leothoma88/KINGPWGENERATOR.git
 
-## 🏆 Bonus
-
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* A click is just one type of DOM event. What are some others?
-
-Use [Google](https://www.google.com) or another search engine to research this.
+Livepage:
+https://leothoma88.github.io/KINGPWGENERATOR/
